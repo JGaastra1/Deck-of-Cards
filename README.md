@@ -1,2 +1,2 @@
 # Deck-of-Cards
-A random card generator 
+Learning Project 1
